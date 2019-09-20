@@ -40,6 +40,7 @@
 
 body{
     background-image: url("../images/bgp.png");
+    margin:0px;
 }
 
 #aboutme{
@@ -51,6 +52,7 @@ body{
     right: 200px;
     background-color: #ffffff;
     margin: auto;
+    margin-bottom: 200px;
     display: block;
     color: #4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -62,6 +64,7 @@ body{
     height: 100%;
     width: 100%;
     margin: 0%;
+    padding: 0%;
 }
 
 p{
@@ -87,6 +90,7 @@ p{
     margin: auto;
     display: block;
     color: #4aaaa5;
+    margin-bottom: 200px;
 
 }
 
@@ -171,6 +175,7 @@ p{
     right: 200px;
     background-color: #ffffff;
     margin: auto;
+    margin-bottom: 200px;
     display: block;
     color: #4aaaa5;
 }
